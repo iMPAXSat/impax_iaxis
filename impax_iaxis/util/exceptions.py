@@ -11,12 +11,12 @@ This code is based on that provided by SunPy see
 import warnings
 
 __all__ = [
-    "iAXISWarning",
-    "iAXISUserWarning",
     "iAXISDeprecationWarning",
     "iAXISPendingDeprecationWarning",
-    "warn_user",
+    "iAXISUserWarning",
+    "iAXISWarning",
     "warn_deprecated",
+    "warn_user",
 ]
 
 
